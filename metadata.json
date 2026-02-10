@@ -1,0 +1,7 @@
+{
+  "name": "Lustrous OKR",
+  "description": "A gemstone-inspired OKR and schedule management app featuring crystalline UI design, deep work tracking, and AI-powered productivity insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
